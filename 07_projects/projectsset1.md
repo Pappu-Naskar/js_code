@@ -244,7 +244,7 @@ document.querySelector('#stop').addEventListener('click', stopChangingColor);
 
 ```
 
-# Project 6 Solution
+# Project 7 Solution
 
 ```javascript
 
